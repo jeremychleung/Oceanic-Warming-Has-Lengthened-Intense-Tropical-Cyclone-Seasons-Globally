@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "basin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "basin": "NA0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 258.5, 25.0 ], [ 275.0, 10.0 ], [ 330.0, 10.0 ], [ 330.0, 25.0 ], [ 258.5, 25.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "NA1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 258.5, 25.0 ], [ 275.0, 10.0 ], [ 330.0, 10.0 ], [ 330.0, 25.0 ], [ 258.5, 25.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "EP0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 230.0, 20.0 ], [ 230.0, 8.0 ], [ 276.7, 8.0 ], [ 264.0, 20.0 ], [ 230.0, 20.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "EP1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 220.0, 18.0 ], [ 220.0, 8.0 ], [ 276.9, 8.0 ], [ 266.0, 18.0 ], [ 220.0, 18.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "WP0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.0, 15.0 ], [ 120.0, 5.0 ], [ 170.0, 5.0 ], [ 170.0, 15.0 ], [ 120.0, 15.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "WP1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 130.0, 18.0 ], [ 130.0, 8.0 ], [ 180.0, 8.0 ], [ 180.0, 18.0 ], [ 130.0, 18.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "SI0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 50.0, -5.0 ], [ 50.0, -15.0 ], [ 115.0, -15.0 ], [ 115.0, -5.0 ], [ 50.0, -5.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "SI1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 50.0, -5.0 ], [ 50.0, -15.0 ], [ 115.0, -15.0 ], [ 115.0, -5.0 ], [ 50.0, -5.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "SP0" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.0, -8.0 ], [ 145.0, -18.0 ], [ 195.0, -18.0 ], [ 195.0, -8.0 ], [ 145.0, -8.0 ] ] ] } },
+{ "type": "Feature", "properties": { "basin": "SP1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.0, -8.0 ], [ 145.0, -18.0 ], [ 195.0, -18.0 ], [ 195.0, -8.0 ], [ 145.0, -8.0 ] ] ] } }
+]
+}
