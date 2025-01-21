@@ -5,6 +5,14 @@ This repository contains the codes that were employed in the [_Nature_](https://
 Note: The Python scripts in this repository are written and tested using **Python 3.12**. 
 <br /> <br /> 
 
+**Usage notes**
+-----
+Some of the input data may not be available in this repo due to the storage limits. You may download these data from the following link:
+- IBTrACS (v4.01): https://www.ncei.noaa.gov/products/international-best-track-archive
+- NCEP/DOE Reanalysis II: https://www.psl.noaa.gov/data/gridded/data.ncep.reanalysis2.html
+- OISSTv2: https://www.psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html
+<br />
+
 **Citation**
 -----
 If you use our codes and data in a publication or for any other purposes, please cite 
